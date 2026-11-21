@@ -1,0 +1,10 @@
+source_dataset: cityscapes
+target_dataset: acdc
+stream_window: 16
+drift_weights: [0.25, 0.25, 0.25, 0.25]
+adaptation:
+  enabled: false
+  threshold: null
+  min_confidence: 0.70
+  update_budget: 100
+note: "Thresholds and weights must be calibrated on a separate validation split, not guessed."

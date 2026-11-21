@@ -1,0 +1,5 @@
+encoder: resnet50
+segmentation_head: deeplabv3plus
+latent_predictor: gru
+latent_dim: 256
+num_classes: 19
