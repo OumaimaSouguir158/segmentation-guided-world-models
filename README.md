@@ -33,7 +33,7 @@ The project is deliberately framed as a **testable research hypothesis**, not as
 - `configs/`: initial reproducible configuration.
 - `notebooks/`: planned analysis notebooks.
 - `documentation/`: reproducibility, compute, ethics and limitations.
-- `project_management/`: six-month plan, milestones, risks and budget.
+- `project_management/`: three-month plan, milestones, risks and budget.
 - `reports/`: progress and final-report templates.
 
 ## Current evidence status
