@@ -1,4 +1,4 @@
-# Six-Month Research Execution Plan
+# three-Month Research Execution Plan
 
 | Month | Work | Deliverable / exit criterion |
 |---|---|---|
